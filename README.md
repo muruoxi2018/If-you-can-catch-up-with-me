@@ -4,8 +4,8 @@
 初学Python的练手作品，使用了tkinter、tkinter.messagebox、random三个库来实现界面的绘制  
   
 **使用方法：**  
-'''python
+```python
 python main.py
-''' 
+``` 
 **效果展示：**  
 ![效果展示](https://github.com/muruoxi2018/If-you-can-catch-up-with-me/blob/master/20190730110846.png)
